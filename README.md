@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lu Thuan Hung</h1>
-<h3 align="center">An third-year undergraduate from Viet Nam</h3>
+<h3 align="center">I am a third-year student at Ho Chi Minh City University of Technology, currently embarking on my journey to become a software developer.</h3>
 
 - 🔭 I’m currently working on [MIPS-Assembly-Project](https://github.com/luthuanhung/MIPS-Assembly-Project)
 
